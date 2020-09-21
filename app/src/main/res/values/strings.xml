@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="description">Add Description</string>
+    <string name="Button_Home_text">Home</string>
+    <string name="ButtonNofification">Notification</string>
+    <string name="Botton_Account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
